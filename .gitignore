@@ -1,0 +1,5 @@
+.env
+package-lock.json
+version.txt
+Open_API_AWS_Gateway_**.json
+node_modules
